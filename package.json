@@ -52,7 +52,7 @@
     "postcss-cssnext": "^3.0.2",
     "print-message": "^2.1.0",
     "prompt-confirm": "^1.2.0",
-    "require-dir": "^0.3.2",
+    "require-dir": "^1.2.0",
     "run-sequence": "^2.2.0",
     "sass-loader": "^6.0.6",
     "semver": "^5.4.1",
