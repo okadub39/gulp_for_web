@@ -4,7 +4,9 @@ GULP FILE FOR WEB SITE
 ## Description
 
 WEBサイト作成時に使用するシンプルなGULPファイルです。
+
 nodeのヴァージョンはv10.16.0
+
 NPMのヴァージョンはv6.9.0
 
 
